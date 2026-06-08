@@ -21,16 +21,22 @@ Libraries:
 
 transformers
 nltk
+
+
 speech recognition (if used)
 ▶️ How to Run
 Clone the repository:
 git clone https://github.com/your-username/your-repo-name.git
+
 Navigate to the folder:
 cd your-repo-name
+
 Install dependencies:
 pip install -r requirements.txt
+
 Run the app:
 streamlit run app.py
+
 🔑 Environment Setup
 Make sure you add your API key:
 
